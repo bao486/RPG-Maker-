@@ -1,0 +1,6 @@
+Personnage:
+	- David:
+		- NPC [barman] >
+		- Maison Verte > 
+		- Dialogue: <<Je suis fatigué>>
+		- Debuff > Fatigué, Tilté 
