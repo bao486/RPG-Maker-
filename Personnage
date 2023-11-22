@@ -1,6 +1,24 @@
 Personnage:
-	- David:
-		- NPC [barman] >
-		- Maison Verte > 
-		- Dialogue: <<Je suis fatigué>>
-		- Debuff > Fatigué, Tilté 
+
+- David:
+- NPC [barman] >
+
+  - Maison Verte >
+    - Dialogue: <<Je suis fatigué>>
+    - Debuff > Fatigué, Tilté
+
+- Melvyn:
+  - NPC [NPC] >
+  - Se promene sur la carte >
+
+Antagoniste:
+
+- Diogo:
+
+  - Boss [Grotte] >
+  - Cave >
+  - Stat >
+
+- Remi:
+
+(Il a 2 phase)
