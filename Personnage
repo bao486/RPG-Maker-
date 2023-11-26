@@ -1,15 +1,29 @@
 Personnage:
 
 - David:
-- NPC [barman] >
+- NPC [Barman] >
 
   - Maison Verte >
-    - Dialogue: <<Je suis fatigué>>
-    - Debuff > Fatigué, Tilté
+    - Dialogue: << Je suis fatigué >>
+    - Debuff > Fatigué, Tilté = Etat vulnerabilite
 
 - Melvyn:
+
   - NPC [NPC] >
   - Se promene sur la carte >
+  - Deviens un enemies si le protagiste detiens une meuf dans l'equipe
+
+- Flam:
+
+  - NPC [Tutoriel]
+
+- Noah:
+
+  - NPC [Fermier]
+
+- Raphox:
+  - NPC [Samurai]
+  - Perdu sur la map en quete du diamant
 
 Antagoniste:
 
@@ -22,3 +36,5 @@ Antagoniste:
 - Remi:
 
 (Il a 2 phase)
+
+- Boss [Manoir]
